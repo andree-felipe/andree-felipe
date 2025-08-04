@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Mobile`**
 
-Olá, me chamo André Felipe, tenho 21 anos e sou natural de São Luís - MA. Estou cursando Ciências da Computação (CCO) na Universidade Federal de Itajubá - UNIFEI, e atualmente sou desenvolvedor mobile na empresa júnior "[Asimov Jr.](https://asimovjr.com.br/)", cluster 5 e referência no movimento MEJ, sendo a maior EJ de TI de Minas Gerais. Após cursar as matérias de POO e Programação Web me apaixonei pelo back-end, área que pretendo seguir carreira, por isso estou sempre em busca de mais conhecimento para me tornar um profissional cada vez mais qualificado.
+Olá, me chamo André Felipe, tenho 21 anos e sou natural de São Luís - MA. Estou cursando Ciências da Computação (CCO) na Universidade Federal de Itajubá - UNIFEI, e atualmente sou desenvolvedor mobile na empresa júnior "[Asimov Jr.](https://asimovjr.com.br/)", cluster 5 e referência no movimento MEJ, sendo a maior EJ de TI de Minas Gerais, e também estagiário em desenvolvimento mobile na startup ArborizAI. Após cursar as matérias de POO e Programação Web me apaixonei pelo back-end, área que pretendo seguir carreira, por isso estou sempre em busca de mais conhecimento para me tornar um profissional cada vez mais qualificado.
 
 <p>
   </a>
