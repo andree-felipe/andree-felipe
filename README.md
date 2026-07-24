@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Mobile`**
 
-Olá, me chamo André Felipe, tenho 21 anos e sou natural de São Luís - MA. Estou cursando Ciências da Computação (CCO) na Universidade Federal de Itajubá - UNIFEI, com previsão de formação para o primeiro semestre de 2027. Minha história na área da programação começou na empresa júnior "[Asimov Jr.](https://asimovjr.com.br/)", pela qual me conectei e participei ativamente do movimento empresa júnior por mais de 1 ano. Atualmente sou desenvolvedor mobile na "[ArborizAI](https://www.arborizai.com.br/)", na qual ganhamos diversas premiações com a solução IArvore (aplictivo para inventário e censo florestal digital), entre elas o 1º lugar no congresso Íbero-Americano de Arborização Urbana e também uma premiação das 10 soluções destaques na COP30.
+Olá, me chamo André Felipe, tenho 22 anos e sou natural de São Luís - MA. Estou cursando Ciências da Computação (CCO) na Universidade Federal de Itajubá - UNIFEI, com previsão de formação para o primeiro semestre de 2027. Minha história na área da programação começou na empresa júnior "[Asimov Jr.](https://asimovjr.com.br/)", pela qual me conectei e participei ativamente do movimento empresa júnior por mais de 1 ano. Atualmente sou desenvolvedor mobile na "[ArborizAI](https://www.arborizai.com.br/)", na qual ganhamos diversas premiações com a solução IArvore (aplictivo para inventário e censo florestal digital), entre elas o 1º lugar no congresso Íbero-Americano de Arborização Urbana e também uma premiação das 10 soluções destaques na COP30.
 
 <p>
   </a>
