@@ -112,7 +112,7 @@ Olá, me chamo André Felipe, tenho 22 anos e sou natural de São Luís - MA. Es
   align="left" 
   alt="XCode"
   title="XCode" 
-  width="30px" 
+  width="35px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" 
 />
