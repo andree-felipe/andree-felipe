@@ -95,8 +95,8 @@ Olá, me chamo André Felipe, tenho 22 anos e sou natural de São Luís - MA. Es
   alt="IOS Development & Deploy"
   title="IOS Development & Deploy" 
   width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" 
+  style="padding-right: 10px; color: white"  
+ src="https://cdn.simpleicons.org/apple/white"
 />
         
 
