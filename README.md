@@ -80,7 +80,6 @@ Olá, me chamo André Felipe, tenho 22 anos e sou natural de São Luís - MA. Es
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 
-
 <img 
   align="left" 
   alt="Insomnia"
@@ -91,6 +90,15 @@ Olá, me chamo André Felipe, tenho 22 anos e sou natural de São Luís - MA. Es
 />
           
 
+<img 
+  align="left" 
+  alt="IOS Development & Deploy"
+  title="IOS Development & Deploy" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" 
+/>
+        
 
 
 <br/>
